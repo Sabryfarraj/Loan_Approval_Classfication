@@ -36,7 +36,6 @@ Loan_Approval_Classification/
 ├── app.py                            # Main Streamlit application
 ├── LogisticRegression_pipeline.pkl   # Trained model pipeline
 ├── requirements.txt                  # Python dependencies
-└── streamlit_link.txt               # Streamlit deployment link
 ```
 
 ## 📋 Prerequisites
