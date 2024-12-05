@@ -8,7 +8,6 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Copy necessary files
-COPY streamlit_link.txt .
 COPY LogisticRegression_pipeline.pkl .
 COPY Loan_Approval_App.py .
 
